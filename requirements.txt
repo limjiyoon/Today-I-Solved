@@ -21,4 +21,4 @@ pytest-cov == 2.10.1
 pre-commit == 2.8.2
 
 # coverage
-coverage-badge == 1.0.1
+coverage-badge == 1.1.0
