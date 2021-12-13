@@ -4,7 +4,7 @@ from typing import List
 
 
 def solution(nums: List[int]) -> bool:
-    """Leet Code 416.
+    """Leet Code 416 (Medium).
 
     Given a non-empty array nums containing only positive integers,
     find if the array can be partitioned into two subsets
